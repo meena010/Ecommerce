@@ -1,0 +1,2 @@
+# Ecommerce
+Django ecommerce app
